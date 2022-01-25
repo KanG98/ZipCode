@@ -1,5 +1,5 @@
 export default async function queryZipcode(zipcode, setData){
-    const res = await fetch("http://ctp-zip-api.herokuapp.com/zip/" + zipcode)
+    const res = await fetch("https://ctp-zip-api.herokuapp.com/zip/" + zipcode)
         .then(res => {
             if(res.status == '404'){
                 alert("zip code not valid")
