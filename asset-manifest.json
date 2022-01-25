@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/ZipCode/tree/main/zip-search/static/js/main.7306c234.js",
-    "index.html": "/ZipCode/tree/main/zip-search/index.html",
-    "main.7306c234.js.map": "/ZipCode/tree/main/zip-search/static/js/main.7306c234.js.map"
+    "main.js": "/ZipCode/static/js/main.7306c234.js",
+    "index.html": "/ZipCode/index.html",
+    "main.7306c234.js.map": "/ZipCode/static/js/main.7306c234.js.map"
   },
   "entrypoints": [
     "static/js/main.7306c234.js"
